@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="plumbing_pub_sub" type="demo01_pub_p.py" name='pub' output="screen" />
+    <node pkg="plumbing_pub_sub" type="demo01_sub_p.py" name='sub' output="screen" />
+</launch>

@@ -1,0 +1,69 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/home/summer/Desktop/demo03_ws/build/plumbing_server_cilent/cmake/plumbing_server_cilent-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"plumbing_server_cilent/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 123,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "plumbing_server_cilent_generate_messages_lisp::@f72012f3e514485966c4"
+		}
+	],
+	"id" : "plumbing_server_cilent_genlisp::@f72012f3e514485966c4",
+	"name" : "plumbing_server_cilent_genlisp",
+	"paths" : 
+	{
+		"build" : "plumbing_server_cilent",
+		"source" : "plumbing_server_cilent"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

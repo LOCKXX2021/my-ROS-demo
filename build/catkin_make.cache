@@ -1,0 +1,2 @@
+plumbing_pub_sub:plumbing_server_cilent
+-DCATKIN_DEVEL_PREFIX=/home/summer/Desktop/demo03_ws/devel -DCMAKE_INSTALL_PREFIX=/home/summer/Desktop/demo03_ws/install -G Unix Makefiles

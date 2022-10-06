@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/summer/Desktop/demo03_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/summer/Desktop/demo03_ws/src/plumbing_pub_sub/include/**",
+        "/home/summer/Desktop/demo03_ws/src/plumbing_server_cilent/include/**",
+        "/home/summer/Desktop/demo03_ws/src/try_ser_cli/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

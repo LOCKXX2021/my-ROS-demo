@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/summer/Desktop/demo03_ws/devel/lib/python3/dist-package"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/summer/Desktop/demo03_ws/devel/lib/python3/dist-package"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src/plumbing_server_cilent"
+    
+}
